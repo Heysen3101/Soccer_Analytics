@@ -15,3 +15,11 @@ This project utilizes Python to create sophisticated and informative data visual
 This project sheds light on key statistics and dynamics of a landmark soccer final. By harnessing Python's data processing and visualization capabilities, it offers valuable insights into player performances and game strategies. It serves as a critical tool for soccer analysts and enthusiasts, providing a deeper understanding of the beautiful game.
 
 
+### 1) Python code to gather the required data from StatsBomb---> https://github.com/Heysen3101/Soccer_Analytics/blob/main/Statsbombimport.ipynb
+
+### 2) Python code to visualize Messi's Passes and HeatMap---> https://github.com/Heysen3101/Soccer_Analytics/blob/main/Heatmap.ipynb
+![](output2.png)
+
+### 3 a) Python code to gather the Shots data from StatsBomb---> https://github.com/Heysen3101/Soccer_Analytics/blob/main/GatherShotsData.ipynb
+###   b) Python code to visualize Argentina and France Shots---> https://github.com/Heysen3101/Soccer_Analytics/blob/main/Shotschart.ipynb
+![](output.png)
